@@ -1,0 +1,21 @@
+##Código Atualizado
+
+#Está sem a pasta node_modules então rode:
+
+npm install
+
+Dentro da pasta do projeto antes de tentar executar.
+
+
+#Depois 
+
+expo start 
+
+para iniciar o projeto.
+
+--------
+#Para fazer:
+
+- Estilos
+- Função de listar por tipo
+- Função de mostrar individualmente o imóvel
